@@ -1,3 +1,7 @@
 This is a repository for a brainfuck interpreter written in Golang
 
 There are no dependencies at the present
+
+
+Just clone down the repo and run:
+/interpreter/main brainfuck.bf
